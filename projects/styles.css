@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;}
+
+body {
+
+    margin: 0 auto;
+    width: 50%;
+    border: rgb(63, 63, 63) solid 1px;
+    border-radius: 10px;
+    padding: 2rem;
+    margin-top: 10rem;
+    
+}
+
+header img {
+
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+}
+
+button  {
+
+    padding: 1.5rem;
+    width: 100%;
+    border-radius: 40px;
+    
+   
+}
+
+.price p {
+
+font-size: x-large;
+
+
+}
+
+.fruit_name {
+
+    font-size: xx-large;
+}
+
+.rating_box {
+
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    
+}
